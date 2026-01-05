@@ -1,2 +1,4 @@
 # git-branches-project
-Update from feature1 branch on GitHub
+Update from feature2 branch locally
+
+
